@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonWidget/CommonWidget.iml" filepath="$PROJECT_DIR$/CommonWidget/CommonWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewWidget/ListViewWidget.iml" filepath="$PROJECT_DIR$/ListViewWidget/ListViewWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogcatDebug/LogcatDebug.iml" filepath="$PROJECT_DIR$/LogcatDebug/LogcatDebug.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

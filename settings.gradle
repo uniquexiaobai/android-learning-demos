@@ -1,1 +1,1 @@
-include ':app', ':HelloWorld', ':LogcatDebug', ':CommonWidget', ':ListViewWidget'
+include ':app', ':HelloWorld', ':LogcatDebug', ':CommonWidget', ':ListViewWidget', ':RecyclerViewWidget'

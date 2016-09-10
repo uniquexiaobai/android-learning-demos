@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityForResult" />
             <option value="$PROJECT_DIR$/ActivityJumping" />
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/ActivitySingleData" />
@@ -25,6 +26,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityForResult" />
             <option value="$PROJECT_DIR$/ActivityJumping" />
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/ActivitySingleData" />

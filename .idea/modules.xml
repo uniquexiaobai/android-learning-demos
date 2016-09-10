@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActivityForResult/ActivityForResult.iml" filepath="$PROJECT_DIR$/ActivityForResult/ActivityForResult.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivityJumping/ActivityJumping.iml" filepath="$PROJECT_DIR$/ActivityJumping/ActivityJumping.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivityLifecycle/ActivityLifecycle.iml" filepath="$PROJECT_DIR$/ActivityLifecycle/ActivityLifecycle.iml" />
       <module fileurl="file://$PROJECT_DIR$/ActivitySingleData/ActivitySingleData.iml" filepath="$PROJECT_DIR$/ActivitySingleData/ActivitySingleData.iml" />

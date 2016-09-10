@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlertDialogWidget" />
             <option value="$PROJECT_DIR$/CommonWidget" />
             <option value="$PROJECT_DIR$/HelloWorld" />
             <option value="$PROJECT_DIR$/ListViewWidget" />
@@ -21,6 +22,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AlertDialogWidget" />
             <option value="$PROJECT_DIR$/CommonWidget" />
             <option value="$PROJECT_DIR$/HelloWorld" />
             <option value="$PROJECT_DIR$/ListViewWidget" />

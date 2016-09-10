@@ -1,1 +1,1 @@
-include ':app', ':HelloWorld', ':LogcatDebug', ':CommonWidget', ':ListViewWidget', ':RecyclerViewWidget', ':MenuWidget', ':AlertDialogWidget', ':ActivityLifecycle', ':ActivityJumping', ':ActivitySingleData', ':ActivityForResult'
+include ':app', ':HelloWorld', ':LogcatDebug', ':CommonWidget', ':ListViewWidget', ':RecyclerViewWidget', ':MenuWidget', ':AlertDialogWidget', ':ActivityLifecycle', ':ActivityJumping', ':ActivitySingleData', ':ActivityForResult', ':FragmentColumn'

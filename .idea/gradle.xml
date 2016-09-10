@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ActivityForResult" />
+            <option value="$PROJECT_DIR$/ActivityImplicit" />
             <option value="$PROJECT_DIR$/ActivityJumping" />
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/ActivitySingleData" />
@@ -29,6 +30,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/ActivityForResult" />
+            <option value="$PROJECT_DIR$/ActivityImplicit" />
             <option value="$PROJECT_DIR$/ActivityJumping" />
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/ActivitySingleData" />

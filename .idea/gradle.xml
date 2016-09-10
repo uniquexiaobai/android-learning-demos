@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/LogcatDebug" />
             <option value="$PROJECT_DIR$/MenuWidget" />
             <option value="$PROJECT_DIR$/RecyclerViewWidget" />
+            <option value="$PROJECT_DIR$/ScreenOrientation" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
@@ -39,6 +40,7 @@
             <option value="$PROJECT_DIR$/LogcatDebug" />
             <option value="$PROJECT_DIR$/MenuWidget" />
             <option value="$PROJECT_DIR$/RecyclerViewWidget" />
+            <option value="$PROJECT_DIR$/ScreenOrientation" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

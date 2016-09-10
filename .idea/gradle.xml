@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityJumping" />
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/AlertDialogWidget" />
             <option value="$PROJECT_DIR$/CommonWidget" />
@@ -23,6 +24,7 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ActivityJumping" />
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/AlertDialogWidget" />
             <option value="$PROJECT_DIR$/CommonWidget" />

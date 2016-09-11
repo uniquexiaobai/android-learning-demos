@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/LogcatDebug" />
             <option value="$PROJECT_DIR$/MenuWidget" />
             <option value="$PROJECT_DIR$/RecyclerViewWidget" />
+            <option value="$PROJECT_DIR$/SQLiteDatabase" />
             <option value="$PROJECT_DIR$/ScreenOrientation" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/app" />
@@ -49,6 +50,7 @@
             <option value="$PROJECT_DIR$/LogcatDebug" />
             <option value="$PROJECT_DIR$/MenuWidget" />
             <option value="$PROJECT_DIR$/RecyclerViewWidget" />
+            <option value="$PROJECT_DIR$/SQLiteDatabase" />
             <option value="$PROJECT_DIR$/ScreenOrientation" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
             <option value="$PROJECT_DIR$/app" />

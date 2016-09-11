@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/MenuWidget/MenuWidget.iml" filepath="$PROJECT_DIR$/MenuWidget/MenuWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewWidget/RecyclerViewWidget.iml" filepath="$PROJECT_DIR$/RecyclerViewWidget/RecyclerViewWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScreenOrientation/ScreenOrientation.iml" filepath="$PROJECT_DIR$/ScreenOrientation/ScreenOrientation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" filepath="$PROJECT_DIR$/SharedPreferences/SharedPreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

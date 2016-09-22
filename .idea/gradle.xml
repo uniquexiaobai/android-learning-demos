@@ -30,6 +30,7 @@
             <option value="$PROJECT_DIR$/SQLiteDatabase" />
             <option value="$PROJECT_DIR$/ScreenOrientation" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
+            <option value="$PROJECT_DIR$/StartService" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
@@ -57,6 +58,7 @@
             <option value="$PROJECT_DIR$/SQLiteDatabase" />
             <option value="$PROJECT_DIR$/ScreenOrientation" />
             <option value="$PROJECT_DIR$/SharedPreferences" />
+            <option value="$PROJECT_DIR$/StartService" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

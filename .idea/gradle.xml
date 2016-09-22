@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/ActivitySingleData" />
             <option value="$PROJECT_DIR$/AlertDialogWidget" />
+            <option value="$PROJECT_DIR$/BindService" />
             <option value="$PROJECT_DIR$/CommonWidget" />
             <option value="$PROJECT_DIR$/ContentObserver" />
             <option value="$PROJECT_DIR$/ContentProviderContacts" />
@@ -43,6 +44,7 @@
             <option value="$PROJECT_DIR$/ActivityLifecycle" />
             <option value="$PROJECT_DIR$/ActivitySingleData" />
             <option value="$PROJECT_DIR$/AlertDialogWidget" />
+            <option value="$PROJECT_DIR$/BindService" />
             <option value="$PROJECT_DIR$/CommonWidget" />
             <option value="$PROJECT_DIR$/ContentObserver" />
             <option value="$PROJECT_DIR$/ContentProviderContacts" />

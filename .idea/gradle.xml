@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/ContentProviderContacts" />
             <option value="$PROJECT_DIR$/ExternalStorage" />
             <option value="$PROJECT_DIR$/FragmentColumn" />
+            <option value="$PROJECT_DIR$/HandlerMessage" />
             <option value="$PROJECT_DIR$/HelloWorld" />
             <option value="$PROJECT_DIR$/IntentDial" />
             <option value="$PROJECT_DIR$/InternalStorage" />
@@ -50,6 +51,7 @@
             <option value="$PROJECT_DIR$/ContentProviderContacts" />
             <option value="$PROJECT_DIR$/ExternalStorage" />
             <option value="$PROJECT_DIR$/FragmentColumn" />
+            <option value="$PROJECT_DIR$/HandlerMessage" />
             <option value="$PROJECT_DIR$/HelloWorld" />
             <option value="$PROJECT_DIR$/IntentDial" />
             <option value="$PROJECT_DIR$/InternalStorage" />

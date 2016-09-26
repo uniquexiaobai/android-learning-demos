@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ContentProviderContacts/ContentProviderContacts.iml" filepath="$PROJECT_DIR$/ContentProviderContacts/ContentProviderContacts.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExternalStorage/ExternalStorage.iml" filepath="$PROJECT_DIR$/ExternalStorage/ExternalStorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/FragmentColumn/FragmentColumn.iml" filepath="$PROJECT_DIR$/FragmentColumn/FragmentColumn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerMessage/HandlerMessage.iml" filepath="$PROJECT_DIR$/HandlerMessage/HandlerMessage.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/IntentDial/IntentDial.iml" filepath="$PROJECT_DIR$/IntentDial/IntentDial.iml" />
       <module fileurl="file://$PROJECT_DIR$/InternalStorage/InternalStorage.iml" filepath="$PROJECT_DIR$/InternalStorage/InternalStorage.iml" />

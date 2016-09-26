@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidDemos.iml" filepath="$PROJECT_DIR$/AndroidDemos.iml" />
       <module fileurl="file://$PROJECT_DIR$/BindService/BindService.iml" filepath="$PROJECT_DIR$/BindService/BindService.iml" />
       <module fileurl="file://$PROJECT_DIR$/BroadcastReceiver/BroadcastReceiver.iml" filepath="$PROJECT_DIR$/BroadcastReceiver/BroadcastReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carema/Carema.iml" filepath="$PROJECT_DIR$/Carema/Carema.iml" />
       <module fileurl="file://$PROJECT_DIR$/CommonWidget/CommonWidget.iml" filepath="$PROJECT_DIR$/CommonWidget/CommonWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentObserver/ContentObserver.iml" filepath="$PROJECT_DIR$/ContentObserver/ContentObserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentProviderContacts/ContentProviderContacts.iml" filepath="$PROJECT_DIR$/ContentProviderContacts/ContentProviderContacts.iml" />

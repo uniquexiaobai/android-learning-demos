@@ -21,6 +21,7 @@
             <option value="$PROJECT_DIR$/CommonWidget" />
             <option value="$PROJECT_DIR$/ContentObserver" />
             <option value="$PROJECT_DIR$/ContentProviderContacts" />
+            <option value="$PROJECT_DIR$/DrawingGraphics" />
             <option value="$PROJECT_DIR$/ExternalStorage" />
             <option value="$PROJECT_DIR$/FragmentColumn" />
             <option value="$PROJECT_DIR$/HandlerMessage" />
@@ -54,6 +55,7 @@
             <option value="$PROJECT_DIR$/CommonWidget" />
             <option value="$PROJECT_DIR$/ContentObserver" />
             <option value="$PROJECT_DIR$/ContentProviderContacts" />
+            <option value="$PROJECT_DIR$/DrawingGraphics" />
             <option value="$PROJECT_DIR$/ExternalStorage" />
             <option value="$PROJECT_DIR$/FragmentColumn" />
             <option value="$PROJECT_DIR$/HandlerMessage" />

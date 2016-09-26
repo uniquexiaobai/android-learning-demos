@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/CommonWidget/CommonWidget.iml" filepath="$PROJECT_DIR$/CommonWidget/CommonWidget.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentObserver/ContentObserver.iml" filepath="$PROJECT_DIR$/ContentObserver/ContentObserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/ContentProviderContacts/ContentProviderContacts.iml" filepath="$PROJECT_DIR$/ContentProviderContacts/ContentProviderContacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DrawingGraphics/DrawingGraphics.iml" filepath="$PROJECT_DIR$/DrawingGraphics/DrawingGraphics.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExternalStorage/ExternalStorage.iml" filepath="$PROJECT_DIR$/ExternalStorage/ExternalStorage.iml" />
       <module fileurl="file://$PROJECT_DIR$/FragmentColumn/FragmentColumn.iml" filepath="$PROJECT_DIR$/FragmentColumn/FragmentColumn.iml" />
       <module fileurl="file://$PROJECT_DIR$/HandlerMessage/HandlerMessage.iml" filepath="$PROJECT_DIR$/HandlerMessage/HandlerMessage.iml" />
